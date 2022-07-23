@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clementine-UWASE and I'am rwandan 
+- 👋 Hi, I’m @Clementine-UWASE  I'am Rwandan 
 - 👀 I’m interested and passionate in software Development ...
 - 🌱 I’m currently learning .and increasing skills and knowledge on software development..
 - 💞️ I’m looking to collaborate with another software developer..
